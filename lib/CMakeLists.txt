@@ -1,0 +1,1 @@
+add_library(type_utls STATIC node_type.cpp)
